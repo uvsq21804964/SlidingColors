@@ -1,0 +1,9 @@
+6 4
+Mur Mur Mur Mur
+Pink Red Purple Mur
+Purple Purple Purple Mur
+Red Mur Red Pink
+Red Mur Pink Purple
+Pink Mur Red Purple
+RURDRURDRURDR
+13

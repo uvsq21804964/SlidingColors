@@ -1,0 +1,7 @@
+4 5
+Mur Pink Mur Purple Purple
+Pink Purple Pink Pink Red
+Pink Red Red Pink Red
+Red Mur Mur Mur Red
+RDRURDR
+7

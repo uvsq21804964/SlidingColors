@@ -1,0 +1,8 @@
+5 4
+Mur Mur Cyan Purple
+Mur Green Cyan Mur
+Green Mur Cyan Cyan
+Green Green Green Green
+Mur Green Purple Mur
+DRDRUR
+6

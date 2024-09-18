@@ -1,0 +1,7 @@
+4 4
+Cyan Cyan Red Mur
+Purple Purple Purple Purple
+Cyan Pink Purple Mur
+Mur Pink Mur Mur
+RUR
+3

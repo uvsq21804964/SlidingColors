@@ -1,0 +1,7 @@
+4 5
+Mur Green Orange Orange Orange
+Green Orange Green Green Mur
+Orange Orange Green Green Green
+Orange Mur Green Green Green
+URDRUR
+6

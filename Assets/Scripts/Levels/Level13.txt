@@ -1,0 +1,9 @@
+6 6
+Mur Mur Mur Green Cyan Mur
+Mur Purple Purple Purple Cyan Mur
+Mur Cyan Mur Purple Purple Mur
+Mur Green Cyan Purple Green Cyan
+Green Green Purple Mur Green Purple
+Purple Green Green Mur Green Mur
+RURURDRURDRD
+12

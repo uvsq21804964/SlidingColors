@@ -1,0 +1,9 @@
+6 6
+Green Mur Red Green Green Mur
+Red Mur Green Red Green Green
+Pink Red Red Red Pink Mur
+Green Mur Mur Pink Pink Pink
+Green Pink Mur Mur Pink Mur
+Green Pink Pink Green Red Red
+URDRDRURDRURURDRURDR
+20

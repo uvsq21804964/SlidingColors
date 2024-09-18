@@ -1,0 +1,7 @@
+4 4
+Mur Green Green Green
+Orange Green Pink Pink
+Pink Pink Mur Mur
+Orange Mur Mur Mur
+RURU
+4

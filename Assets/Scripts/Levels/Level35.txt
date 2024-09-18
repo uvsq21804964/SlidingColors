@@ -1,0 +1,7 @@
+4 4
+Mur Mur Purple Mur
+Mur Purple Purple Mur
+Red Purple Red Mur
+Red Red Red Mur
+DR
+2

@@ -1,0 +1,7 @@
+4 6
+Red Green Orange Green Green Orange
+Orange Mur Green Mur Red Mur
+Orange Mur Red Mur Red Green
+Mur Mur Orange Mur Red Mur
+RDRURDRURDRURURDR
+17

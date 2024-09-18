@@ -1,0 +1,7 @@
+4 5
+Mur Red Pink Pink Mur
+Mur Orange Red Red Orange
+Mur Pink Mur Pink Orange
+Orange Pink Mur Pink Orange
+DRURDRURDR
+10

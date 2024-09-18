@@ -1,0 +1,7 @@
+4 5
+Mur Orange Red Red Mur
+Red Cyan Mur Cyan Mur
+Orange Red Mur Red Red
+Mur Cyan Orange Cyan Red
+RDRDRURDRDRURDRDRUR
+19

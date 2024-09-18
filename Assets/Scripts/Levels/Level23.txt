@@ -1,0 +1,9 @@
+6 3
+Mur Mur Mur
+Mur Mur Mur
+Purple Red Red
+Purple Mur Purple
+Red Red Purple
+Mur Mur Purple
+DRDRURU
+7

@@ -1,0 +1,7 @@
+4 5
+Green Green Cyan Cyan Mur
+Mur Mur Mur Cyan Green
+Mur Mur Cyan Green Green
+Mur Mur Green Cyan Mur
+RDRURDR
+7

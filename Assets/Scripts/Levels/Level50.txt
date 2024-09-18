@@ -1,0 +1,8 @@
+5 4
+Cyan Orange Mur Mur
+Mur Cyan Cyan Mur
+Mur Mur Orange Orange
+Green Cyan Green Orange
+Mur Orange Mur Mur
+URURDRDRURUR
+12

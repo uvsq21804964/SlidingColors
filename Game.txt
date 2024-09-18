@@ -1,0 +1,8 @@
+5 6
+Red Green Red Red Green Red
+Green Red Mur Mur Green Mur
+Green Green Green Red Green Green
+Mur Green Green Red Green Mur
+Mur Green Red Green Mur Mur
+RDRURDRUR
+9

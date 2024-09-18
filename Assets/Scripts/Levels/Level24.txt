@@ -1,0 +1,9 @@
+6 5
+Red Mur Cyan Cyan Mur
+Green Mur Red Cyan Cyan
+Red Cyan Mur Cyan Cyan
+Mur Green Green Cyan Mur
+Mur Mur Red Mur Mur
+Mur Cyan Red Mur Mur
+RDRURURDRURDRURDRURUR
+21

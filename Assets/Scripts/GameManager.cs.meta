@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8e8122426cd2e9d498eb7c33814a1d42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _nodePrefab: {instanceID: 0}
+  - _blockPrefab: {instanceID: 0}
+  - _boardPrefab: {instanceID: 0}
+  - _mergeEffectPrefab: {instanceID: 0}
+  - _floatingTextPrefab: {fileID: 456341127137460407, guid: c9edca5e99809c741b49b01544fca255, type: 3}
+  - _roundTextPrefab: {fileID: 6522083411027042694, guid: 25e207283679b5c478480971209a40ae, type: 3}
+  - _winScreen: {instanceID: 0}
+  - _loseScreen: {instanceID: 0}
+  - _winScreenText: {instanceID: 0}
+  - _source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

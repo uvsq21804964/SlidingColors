@@ -1,0 +1,7 @@
+4 4
+Mur Mur Orange Mur
+Red Red Orange Red
+Orange Mur Red Red
+Mur Orange Red Red
+RURD
+4

@@ -1,0 +1,7 @@
+4 4
+Mur Mur Mur Mur
+Mur Mur Mur Cyan
+Mur Orange Orange Purple
+Purple Orange Orange Purple
+URD
+3

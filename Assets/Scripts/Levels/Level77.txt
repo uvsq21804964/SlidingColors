@@ -1,0 +1,7 @@
+4 3
+Red Red Red
+Red Purple Red
+Cyan Purple Mur
+Mur Cyan Mur
+URU
+3

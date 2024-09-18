@@ -1,0 +1,7 @@
+4 3
+Green Cyan Green
+Mur Green Mur
+Green Green Cyan
+Mur Green Red
+DRUR
+4

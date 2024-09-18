@@ -1,0 +1,8 @@
+5 4
+Mur Pink Orange Pink
+Mur Pink Orange Mur
+Pink Orange Purple Orange
+Mur Purple Orange Purple
+Pink Purple Pink Mur
+DRURDRUR
+8

@@ -1,0 +1,7 @@
+4 3
+Mur Pink Mur
+Mur Pink Red
+Green Pink Green
+Red Green Mur
+URDRUR
+6

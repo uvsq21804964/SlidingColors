@@ -1,0 +1,7 @@
+4 6
+Purple Purple Purple Purple Purple Purple
+Purple Mur Purple Mur Red Red
+Purple Red Red Purple Red Mur
+Mur Mur Purple Purple Pink Pink
+DRURUR
+6

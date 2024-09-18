@@ -1,0 +1,7 @@
+4 3
+Mur Orange Orange
+Mur Purple Purple
+Red Purple Red
+Orange Purple Mur
+URUR
+4

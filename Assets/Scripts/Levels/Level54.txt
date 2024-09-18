@@ -1,0 +1,7 @@
+4 4
+Orange Mur Mur Mur
+Green Green Pink Mur
+Mur Orange Purple Mur
+Mur Mur Purple Purple
+RDRD
+4

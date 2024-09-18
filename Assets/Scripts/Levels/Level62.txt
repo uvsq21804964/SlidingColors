@@ -1,0 +1,9 @@
+6 4
+Green Green Green Mur
+Mur Green Purple Orange
+Mur Mur Green Mur
+Purple Green Green Purple
+Green Orange Purple Purple
+Orange Mur Green Green
+RDRURURDR
+9

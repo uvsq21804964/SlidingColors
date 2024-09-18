@@ -1,0 +1,7 @@
+4 4
+Mur Green Mur Pink
+Red Red Red Pink
+Pink Mur Green Green
+Red Green Red Mur
+RURURDRDRUR
+11

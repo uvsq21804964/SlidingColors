@@ -1,0 +1,9 @@
+6 6
+Green Mur Green Green Mur Mur
+Green Cyan Cyan Green Mur Green
+Cyan Green Green Green Mur Green
+Green Green Green Green Green Green
+Mur Mur Mur Green Green Mur
+Cyan Cyan Green Cyan Green Mur
+RURDRURU
+8

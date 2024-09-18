@@ -1,0 +1,7 @@
+4 5
+Purple Green Green Purple Mur
+Mur Purple Mur Green Green
+Mur Mur Purple Green Green
+Mur Green Green Purple Mur
+RDRURDRU
+8
